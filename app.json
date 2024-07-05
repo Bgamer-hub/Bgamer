@@ -21,12 +21,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "하준"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": false,
-      "value": "2547110853827"
+      "value": "2347042931004,2349135758449"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -41,7 +41,7 @@
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
@@ -81,7 +81,7 @@
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
       "required": false,
-      "value": ""
+      "value": "하준"
     },
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
